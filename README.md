@@ -1,10 +1,6 @@
 ## Testing with Jest in a Typescript Project
 
-The purpose of this project is to provide a barebones example of how to get started with Jest Testing in a TypeScript project folliwng the "Using Babel" section of the jestjs.io documentation.
-
-## Instructions
-
-Documentation found at [jestjs.io](https://jestjs.io/docs/getting-started#using-babel).
+The purpose of this project is to provide a barebones example of how to get started with Jest Testing in a TypeScript project folliwng the "Using Babel" section of the [jestjs.io](https://jestjs.io/docs/getting-started#using-babel) documentation.
 
 ### 1. Create your project and setup the `package.json`
    `yarn init -y`
